@@ -19,7 +19,8 @@ cd yt-dlp
 
 3. **Créez un Environnement Virtuel** :
 ```bash
-python -m venv venvsource venv/bin/activate
+python -m venv venv
+source venv/bin/activate
 ```
 4. **Installez les Dépendances** :
 ```bash
