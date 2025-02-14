@@ -13,7 +13,8 @@ Cet outil permet de télécharger facilement des vidéos depuis différentes pla
 
 2. **Clonez le Dépôt** :
 ```bash
-git clone https://github.com/valorisa/yt-dlp-cli.gitcd yt-dlp-cli
+git clone https://github.com/valorisa/yt-dlp.git
+cd yt-dlp
 ```
 
 3. **Créez un Environnement Virtuel** :
