@@ -10,8 +10,8 @@ Cet outil permet de télécharger facilement des vidéos depuis différentes pla
 ------------
 
 1. **Python** : Assurez-vous d'avoir Python 3.6 ou supérieur installé.
-2. 
-3. **Clonez le Dépôt** :
+
+2. **Clonez le Dépôt** :
 ```bash
 git clone https://github.com/valorisa/yt-dlp-cli.gitcd yt-dlp-cli
 ```
